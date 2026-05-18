@@ -36,7 +36,7 @@ Open `http://localhost:8501` in your browser.
 
 ## Hugging Face Space
 
-🔗 **Live demo:** `https://huggingface.co/spaces/<your-username>/cell-shape-profiler`
+🔗 **Live demo:** `https://huggingface.co/spaces/glcerc/cell-shape-profiler`
 
 ---
 
@@ -70,4 +70,3 @@ cell-shape-profiler/
 
 ## Screenshots
 
-*(Add screenshots or a GIF here after deployment)*
